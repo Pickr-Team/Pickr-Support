@@ -2,12 +2,20 @@
 <buildprofiles xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd"
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
-    <variables></variables>
-    <build-profile instance="hi">
+    <variables>
+        <primary-color>halloween</primary-color>
+        <custom-favicons>icon.png</custom-favicons>
+        <header-logo>pickr.png</header-logo>
+    </variables>
+    <build-profile instance="ps">
         <variables>
             <noindex-content>true</noindex-content>
             <offline-docs>false</offline-docs>
         </variables>
     </build-profile>
-
+    <footer>
+        <copyright>Chengxin Zhao 2024</copyright>
+        <link href="https://github.com/ChesterZhao/Pickr-Support">Go Back To Pickr</link>
+        <link href="https://pickr.chengxin.design">About Pickr Support</link>
+    </footer>
 </buildprofiles>
