@@ -14,8 +14,6 @@
         </variables>
     </build-profile>
     <footer>
-        <copyright>Chengxin Zhao 2024</copyright>
-        <link href="https://github.com/ChesterZhao/Pickr-Support">Go Back To Pickr</link>
         <link href="https://pickr.chengxin.design">About Pickr Support</link>
     </footer>
 </buildprofiles>

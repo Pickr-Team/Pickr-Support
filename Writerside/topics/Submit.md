@@ -1,4 +1,4 @@
-# Submit
+# Submition
 
 ## Deadline System
 In the tutorial page, you can find the deadline decided by the system manager.
