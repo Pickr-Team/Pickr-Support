@@ -3,9 +3,13 @@
                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <variables>
+        <download-title>Back to Pickr</download-title>
+        <download-page>https://student.zy.cdut.edu.cn/studentprojectmanager/</download-page>
+        <showDownloadButton>true</showDownloadButton>
         <primary-color>halloween</primary-color>
         <custom-favicons>icon.png</custom-favicons>
         <header-logo>pickr.png</header-logo>
+        <product-web-url>https://chesterzhao.github.io/Pickr-Support/</product-web-url>
     </variables>
     <build-profile instance="ps">
         <variables>
