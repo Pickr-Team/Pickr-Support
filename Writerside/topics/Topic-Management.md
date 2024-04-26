@@ -13,6 +13,12 @@ On this page, you are required to fill in:
 Topic Name
 : The name of this topic.
 
+<warning>
+    <p>
+To ensure clarity of the topic, please ensure that the topic name does not exceed 50 characters. The purpose of the
+topic name is to provide students with a clear understanding of the theme at a glance.    </p>
+</warning>
+
 Topic Type
 : The type of this topic, you need to select the topic type from the dropdown menu.
 
