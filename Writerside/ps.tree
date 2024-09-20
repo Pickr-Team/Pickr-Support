@@ -12,7 +12,7 @@
     </toc-element>
     <toc-element topic="Student.md">
         <toc-element topic="Account.md"/>
-        <toc-element topic="Toic-Selection.md">
+        <toc-element topic="Topic-Selection.md">
             <toc-element topic="Supervisor-s-Topic.md"/>
             <toc-element topic="Custom-Topic.md"/>
         </toc-element>
