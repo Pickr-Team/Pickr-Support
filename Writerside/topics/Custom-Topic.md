@@ -10,7 +10,7 @@ Then you can create your own topic.
 
 <warning>
     <p>
-        The custom topic needs to be reviewed by the manager, and your supervisor may be modified.
+        The custom topic needs to be reviewed by the module leader, and your supervisor may be modified.
     </p>
 </warning>
 
