@@ -46,9 +46,9 @@ Required Skills
 Reference (Optional)
 : The reference.
 
-## Edit Exited Topic
+## Edit Existing Topic
 
-You can edit your topic by clicking on `Edit`.
+You can edit an existing topic by clicking on `Edit`.
 
 ![](topic-edit.jpg){ width=800 }{border-effect=line}
 
