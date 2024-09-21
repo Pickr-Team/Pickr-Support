@@ -2,8 +2,8 @@
 
 ## About Pickr
 
-Pickr is an intelligent course selection system designed to provide a convenient and efficient course selection
-experience for senior students and supervisors at Chengdu University of Technology - Oxford Brooks College.
+Pickr is an intelligent topic selection system designed to provide a convenient and efficient topic selection
+experience for level 6 students (final year students) and supervisors at Chengdu University of Technology, Oxford Brooks College.
 
 
 <seealso style="cards">
